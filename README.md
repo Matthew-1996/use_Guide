@@ -28,7 +28,7 @@ html、xml、php
 开放数据竞赛  
 ......
 # 资源整理
-## 计算机语言刷题  
+## 计算机知识面试刷题  
 https://leetcode-cn.com/problemset/all/  
 https://www.acmcoder.com/index  
 ## python网上学习资料

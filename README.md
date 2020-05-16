@@ -36,6 +36,7 @@ https://www.acmcoder.com/index
 youtub上某up教学文档：https://morvanzhou.github.io/  
 廖雪峰和菜鸟教程（包括其他语言）  
 有虚拟环境的课程：https://www.shiyanlou.com/courses/596  
+w3school：https://www.w3schools.com/python/default.asp  
 b站有很多up主  
 ## 图书资源
 《利用python进行数据分析》：https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version
